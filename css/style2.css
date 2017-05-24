@@ -1,0 +1,17 @@
+body{
+/*background-image: url("../images/tumblr_nnnsejTONX1t44zdso1_400.gif");*/
+background-color: aqua;
+}
+img{
+width:1000px ;
+height:622px ;
+}
+
+h1{
+font-size: 400%
+}
+body{
+  font-family:arial;
+text-align: center;
+font-weight: bold;
+}
